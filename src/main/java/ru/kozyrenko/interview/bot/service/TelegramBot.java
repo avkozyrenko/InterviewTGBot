@@ -36,7 +36,7 @@ public class TelegramBot extends TelegramLongPollingBot {
                     startCommandReceived(chatId, update.getMessage().getChat().getFirstName());
                     break;
                 default:
-                    currency = "Куку";
+                    currency = "Кукуddcdc";
 //                    try {
 //                        currency = "Куку";
 //
